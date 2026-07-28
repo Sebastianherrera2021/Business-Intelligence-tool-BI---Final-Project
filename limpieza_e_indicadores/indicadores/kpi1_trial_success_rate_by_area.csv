@@ -1,0 +1,11 @@
+therapy_area,trials,successes,success_rate_pct
+cardiovascular,67,54,80.6
+respiratory,23,18,78.3
+infectious,59,44,74.6
+gastrointestinal,23,15,65.2
+metabolic,47,29,61.7
+rare_disease,47,26,55.3
+immunology,74,39,52.7
+psychiatry,17,7,41.2
+oncology,180,63,35.0
+neurology,62,17,27.4

@@ -1,0 +1,543 @@
+sponsor_std,therapy_area,year,trials,successes,success_rate_pct
+AbbVie,cardiovascular,2014,1,0,0.0
+AbbVie,cardiovascular,2015,1,1,100.0
+AbbVie,cardiovascular,2025,1,1,100.0
+AbbVie,immunology,2015,1,0,0.0
+AbbVie,immunology,2017,1,0,0.0
+AbbVie,immunology,2018,1,1,100.0
+AbbVie,metabolic,2013,1,0,0.0
+AbbVie,neurology,2023,1,0,0.0
+AbbVie,oncology,2013,1,0,0.0
+AbbVie,oncology,2014,1,0,0.0
+AbbVie,oncology,2015,1,0,0.0
+AbbVie,oncology,2016,1,1,100.0
+AbbVie,oncology,2018,1,0,0.0
+AbbVie,rare_disease,2011,1,1,100.0
+AbbVie,rare_disease,2013,1,1,100.0
+AbbVie,respiratory,2022,1,1,100.0
+AbbVie,respiratory,2023,1,0,0.0
+Amgen,cardiovascular,2016,1,1,100.0
+Amgen,cardiovascular,2017,1,1,100.0
+Amgen,cardiovascular,2022,1,1,100.0
+Amgen,immunology,2013,1,1,100.0
+Amgen,immunology,2016,1,1,100.0
+Amgen,immunology,2017,1,0,0.0
+Amgen,immunology,2022,1,1,100.0
+Amgen,immunology,2025,1,0,0.0
+Amgen,infectious,2018,1,1,100.0
+Amgen,infectious,2023,1,1,100.0
+Amgen,metabolic,2013,1,0,0.0
+Amgen,metabolic,2014,1,0,0.0
+Amgen,metabolic,2021,1,0,0.0
+Amgen,oncology,2012,1,0,0.0
+Amgen,oncology,2013,1,1,100.0
+Amgen,oncology,2015,2,1,50.0
+Amgen,oncology,2016,2,0,0.0
+Amgen,oncology,2017,1,0,0.0
+Amgen,oncology,2019,1,0,0.0
+Amgen,oncology,2023,1,1,100.0
+Amgen,rare_disease,2012,1,1,100.0
+Amgen,rare_disease,2014,1,0,0.0
+Amgen,rare_disease,2017,1,1,100.0
+Amgen,rare_disease,2024,1,0,0.0
+Amgen,respiratory,2024,1,1,100.0
+AstraZeneca,cardiovascular,2013,2,1,50.0
+AstraZeneca,cardiovascular,2015,1,1,100.0
+AstraZeneca,gastrointestinal,2014,1,0,0.0
+AstraZeneca,gastrointestinal,2020,1,1,100.0
+AstraZeneca,immunology,2011,2,1,50.0
+AstraZeneca,immunology,2012,1,1,100.0
+AstraZeneca,immunology,2017,1,1,100.0
+AstraZeneca,immunology,2024,1,1,100.0
+AstraZeneca,infectious,2011,1,1,100.0
+AstraZeneca,infectious,2015,1,0,0.0
+AstraZeneca,infectious,2017,2,1,50.0
+AstraZeneca,infectious,2019,1,1,100.0
+AstraZeneca,infectious,2022,1,1,100.0
+AstraZeneca,infectious,2024,2,2,100.0
+AstraZeneca,metabolic,2015,1,1,100.0
+AstraZeneca,neurology,2023,1,0,0.0
+AstraZeneca,neurology,2025,1,0,0.0
+AstraZeneca,oncology,2012,2,1,50.0
+AstraZeneca,oncology,2013,1,1,100.0
+AstraZeneca,oncology,2014,1,1,100.0
+AstraZeneca,oncology,2016,2,0,0.0
+AstraZeneca,oncology,2025,1,0,0.0
+AstraZeneca,rare_disease,2012,1,1,100.0
+AstraZeneca,rare_disease,2015,1,1,100.0
+AstraZeneca,respiratory,2016,1,0,0.0
+Bayer,cardiovascular,2012,1,1,100.0
+Bayer,cardiovascular,2013,1,1,100.0
+Bayer,cardiovascular,2019,1,1,100.0
+Bayer,immunology,2019,1,0,0.0
+Bayer,immunology,2024,1,1,100.0
+Bayer,infectious,2010,1,1,100.0
+Bayer,metabolic,2016,1,0,0.0
+Bayer,metabolic,2020,1,1,100.0
+Bayer,neurology,2010,1,0,0.0
+Bayer,neurology,2011,1,1,100.0
+Bayer,neurology,2021,1,0,0.0
+Bayer,oncology,2010,2,1,50.0
+Bayer,oncology,2012,2,1,50.0
+Bayer,oncology,2016,1,0,0.0
+Bayer,oncology,2017,1,0,0.0
+Bayer,oncology,2020,1,1,100.0
+Bayer,oncology,2021,1,0,0.0
+Bayer,oncology,2022,1,0,0.0
+Bayer,oncology,2023,1,0,0.0
+Bayer,oncology,2024,2,0,0.0
+Bayer,rare_disease,2017,1,1,100.0
+Bayer,rare_disease,2019,1,1,100.0
+Bayer,rare_disease,2023,1,1,100.0
+BioNTech,cardiovascular,2011,1,1,100.0
+BioNTech,cardiovascular,2012,1,1,100.0
+BioNTech,cardiovascular,2021,1,1,100.0
+BioNTech,gastrointestinal,2013,1,0,0.0
+BioNTech,gastrointestinal,2018,1,0,0.0
+BioNTech,immunology,2013,1,1,100.0
+BioNTech,immunology,2021,1,0,0.0
+BioNTech,immunology,2024,1,1,100.0
+BioNTech,immunology,2025,2,0,0.0
+BioNTech,infectious,2017,1,1,100.0
+BioNTech,infectious,2018,1,1,100.0
+BioNTech,metabolic,2017,1,0,0.0
+BioNTech,metabolic,2018,1,1,100.0
+BioNTech,neurology,2010,1,1,100.0
+BioNTech,neurology,2011,1,0,0.0
+BioNTech,neurology,2015,3,2,66.7
+BioNTech,neurology,2016,1,1,100.0
+BioNTech,neurology,2017,1,0,0.0
+BioNTech,neurology,2018,1,0,0.0
+BioNTech,oncology,2010,1,0,0.0
+BioNTech,oncology,2011,1,0,0.0
+BioNTech,oncology,2021,1,1,100.0
+BioNTech,oncology,2022,2,0,0.0
+BioNTech,oncology,2023,2,0,0.0
+BioNTech,oncology,2025,1,0,0.0
+BioNTech,psychiatry,2011,1,1,100.0
+BioNTech,psychiatry,2025,1,0,0.0
+BioNTech,rare_disease,2012,1,0,0.0
+BioNTech,rare_disease,2018,1,1,100.0
+BioNTech,rare_disease,2023,1,0,0.0
+BioNTech,respiratory,2010,1,1,100.0
+BioNTech,respiratory,2017,1,1,100.0
+BioNTech,respiratory,2021,1,0,0.0
+Boehringer Ingelheim,cardiovascular,2021,1,1,100.0
+Boehringer Ingelheim,immunology,2014,1,0,0.0
+Boehringer Ingelheim,infectious,2015,1,1,100.0
+Boehringer Ingelheim,infectious,2018,1,1,100.0
+Boehringer Ingelheim,infectious,2020,1,1,100.0
+Boehringer Ingelheim,metabolic,2012,1,0,0.0
+Boehringer Ingelheim,metabolic,2013,1,0,0.0
+Boehringer Ingelheim,metabolic,2014,1,1,100.0
+Boehringer Ingelheim,neurology,2012,1,0,0.0
+Boehringer Ingelheim,neurology,2015,1,0,0.0
+Boehringer Ingelheim,neurology,2023,1,0,0.0
+Boehringer Ingelheim,oncology,2015,1,0,0.0
+Boehringer Ingelheim,oncology,2017,1,1,100.0
+Boehringer Ingelheim,oncology,2019,1,0,0.0
+Boehringer Ingelheim,oncology,2022,1,0,0.0
+Boehringer Ingelheim,oncology,2025,1,0,0.0
+Boehringer Ingelheim,psychiatry,2017,1,0,0.0
+Boehringer Ingelheim,psychiatry,2025,1,1,100.0
+Boehringer Ingelheim,rare_disease,2015,1,1,100.0
+Bristol-Myers Squibb,cardiovascular,2011,1,1,100.0
+Bristol-Myers Squibb,cardiovascular,2014,1,1,100.0
+Bristol-Myers Squibb,cardiovascular,2015,1,1,100.0
+Bristol-Myers Squibb,cardiovascular,2021,1,0,0.0
+Bristol-Myers Squibb,cardiovascular,2023,1,1,100.0
+Bristol-Myers Squibb,gastrointestinal,2025,1,1,100.0
+Bristol-Myers Squibb,immunology,2013,1,0,0.0
+Bristol-Myers Squibb,immunology,2017,1,0,0.0
+Bristol-Myers Squibb,immunology,2018,1,0,0.0
+Bristol-Myers Squibb,immunology,2022,1,1,100.0
+Bristol-Myers Squibb,infectious,2010,1,0,0.0
+Bristol-Myers Squibb,infectious,2022,1,0,0.0
+Bristol-Myers Squibb,metabolic,2017,1,1,100.0
+Bristol-Myers Squibb,metabolic,2021,1,1,100.0
+Bristol-Myers Squibb,metabolic,2022,1,0,0.0
+Bristol-Myers Squibb,neurology,2012,1,1,100.0
+Bristol-Myers Squibb,oncology,2011,2,1,50.0
+Bristol-Myers Squibb,oncology,2012,1,1,100.0
+Bristol-Myers Squibb,oncology,2013,1,0,0.0
+Bristol-Myers Squibb,oncology,2014,1,0,0.0
+Bristol-Myers Squibb,oncology,2016,1,0,0.0
+Bristol-Myers Squibb,oncology,2018,1,0,0.0
+Bristol-Myers Squibb,oncology,2023,1,0,0.0
+Bristol-Myers Squibb,oncology,2024,2,0,0.0
+Bristol-Myers Squibb,psychiatry,2018,1,1,100.0
+Bristol-Myers Squibb,rare_disease,2017,1,1,100.0
+Bristol-Myers Squibb,rare_disease,2025,1,1,100.0
+Eli Lilly,cardiovascular,2012,1,0,0.0
+Eli Lilly,cardiovascular,2013,1,1,100.0
+Eli Lilly,cardiovascular,2017,1,1,100.0
+Eli Lilly,cardiovascular,2019,1,0,0.0
+Eli Lilly,cardiovascular,2021,1,1,100.0
+Eli Lilly,cardiovascular,2025,1,1,100.0
+Eli Lilly,immunology,2013,1,1,100.0
+Eli Lilly,infectious,2010,2,0,0.0
+Eli Lilly,infectious,2012,1,1,100.0
+Eli Lilly,infectious,2022,1,0,0.0
+Eli Lilly,infectious,2023,2,1,50.0
+Eli Lilly,infectious,2025,1,1,100.0
+Eli Lilly,metabolic,2011,1,1,100.0
+Eli Lilly,metabolic,2013,1,1,100.0
+Eli Lilly,metabolic,2016,1,1,100.0
+Eli Lilly,metabolic,2017,1,1,100.0
+Eli Lilly,neurology,2018,1,0,0.0
+Eli Lilly,neurology,2019,1,0,0.0
+Eli Lilly,oncology,2010,1,0,0.0
+Eli Lilly,oncology,2011,1,1,100.0
+Eli Lilly,oncology,2015,1,1,100.0
+Eli Lilly,oncology,2017,1,0,0.0
+Eli Lilly,oncology,2018,1,0,0.0
+Eli Lilly,oncology,2021,1,0,0.0
+Eli Lilly,oncology,2022,1,0,0.0
+Eli Lilly,oncology,2023,1,0,0.0
+Eli Lilly,respiratory,2019,1,1,100.0
+GSK,cardiovascular,2015,1,1,100.0
+GSK,cardiovascular,2021,1,1,100.0
+GSK,cardiovascular,2022,1,1,100.0
+GSK,immunology,2019,1,0,0.0
+GSK,immunology,2025,1,1,100.0
+GSK,infectious,2013,1,1,100.0
+GSK,infectious,2016,1,1,100.0
+GSK,infectious,2017,1,1,100.0
+GSK,infectious,2021,1,1,100.0
+GSK,infectious,2022,1,0,0.0
+GSK,infectious,2024,1,0,0.0
+GSK,metabolic,2010,1,1,100.0
+GSK,metabolic,2017,1,1,100.0
+GSK,metabolic,2018,1,1,100.0
+GSK,metabolic,2021,1,0,0.0
+GSK,metabolic,2022,2,2,100.0
+GSK,metabolic,2025,1,0,0.0
+GSK,neurology,2011,1,0,0.0
+GSK,neurology,2012,1,0,0.0
+GSK,neurology,2013,1,0,0.0
+GSK,neurology,2019,1,0,0.0
+GSK,neurology,2022,1,0,0.0
+GSK,oncology,2010,1,0,0.0
+GSK,oncology,2012,1,0,0.0
+GSK,oncology,2013,1,0,0.0
+GSK,oncology,2014,1,1,100.0
+GSK,oncology,2017,1,0,0.0
+GSK,oncology,2019,1,1,100.0
+GSK,oncology,2020,1,0,0.0
+GSK,oncology,2021,2,1,50.0
+GSK,oncology,2022,1,0,0.0
+GSK,oncology,2025,3,3,100.0
+GSK,psychiatry,2013,1,0,0.0
+GSK,rare_disease,2026,1,1,100.0
+Gilead Sciences,cardiovascular,2011,1,0,0.0
+Gilead Sciences,cardiovascular,2018,1,1,100.0
+Gilead Sciences,gastrointestinal,2022,1,0,0.0
+Gilead Sciences,immunology,2014,2,2,100.0
+Gilead Sciences,immunology,2015,1,1,100.0
+Gilead Sciences,immunology,2022,2,1,50.0
+Gilead Sciences,infectious,2026,1,1,100.0
+Gilead Sciences,metabolic,2023,1,1,100.0
+Gilead Sciences,neurology,2016,1,1,100.0
+Gilead Sciences,neurology,2025,1,1,100.0
+Gilead Sciences,oncology,2018,2,1,50.0
+Gilead Sciences,oncology,2019,3,3,100.0
+Gilead Sciences,oncology,2020,1,1,100.0
+Gilead Sciences,oncology,2023,1,0,0.0
+Gilead Sciences,rare_disease,2013,1,0,0.0
+Gilead Sciences,respiratory,2019,1,1,100.0
+Johnson & Johnson,cardiovascular,2020,1,1,100.0
+Johnson & Johnson,cardiovascular,2022,1,1,100.0
+Johnson & Johnson,immunology,2010,1,1,100.0
+Johnson & Johnson,immunology,2011,1,0,0.0
+Johnson & Johnson,immunology,2014,1,0,0.0
+Johnson & Johnson,immunology,2020,1,0,0.0
+Johnson & Johnson,infectious,2014,1,1,100.0
+Johnson & Johnson,infectious,2019,1,1,100.0
+Johnson & Johnson,infectious,2024,1,1,100.0
+Johnson & Johnson,infectious,2025,1,1,100.0
+Johnson & Johnson,metabolic,2010,1,1,100.0
+Johnson & Johnson,neurology,2013,1,1,100.0
+Johnson & Johnson,neurology,2020,1,0,0.0
+Johnson & Johnson,neurology,2024,1,0,0.0
+Johnson & Johnson,neurology,2025,1,0,0.0
+Johnson & Johnson,oncology,2011,1,0,0.0
+Johnson & Johnson,oncology,2012,2,1,50.0
+Johnson & Johnson,oncology,2013,1,0,0.0
+Johnson & Johnson,oncology,2014,1,1,100.0
+Johnson & Johnson,oncology,2017,1,1,100.0
+Johnson & Johnson,oncology,2019,2,1,50.0
+Johnson & Johnson,oncology,2021,1,0,0.0
+Johnson & Johnson,oncology,2024,1,1,100.0
+Johnson & Johnson,rare_disease,2025,1,0,0.0
+Johnson & Johnson,respiratory,2012,1,1,100.0
+Merck,cardiovascular,2016,1,0,0.0
+Merck,cardiovascular,2018,1,1,100.0
+Merck,gastrointestinal,2023,1,1,100.0
+Merck,immunology,2023,2,2,100.0
+Merck,immunology,2024,1,1,100.0
+Merck,infectious,2011,1,0,0.0
+Merck,infectious,2013,1,1,100.0
+Merck,infectious,2025,1,0,0.0
+Merck,metabolic,2022,1,1,100.0
+Merck,neurology,2012,1,1,100.0
+Merck,neurology,2023,1,1,100.0
+Merck,oncology,2010,2,1,50.0
+Merck,oncology,2011,3,1,33.3
+Merck,oncology,2013,1,0,0.0
+Merck,oncology,2016,1,0,0.0
+Merck,oncology,2017,1,1,100.0
+Merck,oncology,2020,1,1,100.0
+Merck,oncology,2021,2,0,0.0
+Merck,oncology,2023,2,1,50.0
+Merck,oncology,2024,1,0,0.0
+Merck,oncology,2025,1,1,100.0
+Merck,rare_disease,2013,1,0,0.0
+Merck,rare_disease,2017,1,1,100.0
+Merck,respiratory,2023,1,1,100.0
+Moderna,cardiovascular,2019,1,0,0.0
+Moderna,cardiovascular,2021,1,1,100.0
+Moderna,cardiovascular,2023,1,0,0.0
+Moderna,immunology,2016,1,1,100.0
+Moderna,immunology,2018,1,0,0.0
+Moderna,immunology,2019,1,1,100.0
+Moderna,immunology,2021,1,0,0.0
+Moderna,immunology,2023,1,1,100.0
+Moderna,infectious,2015,1,0,0.0
+Moderna,metabolic,2017,1,1,100.0
+Moderna,metabolic,2018,1,1,100.0
+Moderna,metabolic,2021,1,0,0.0
+Moderna,neurology,2010,1,0,0.0
+Moderna,neurology,2012,2,0,0.0
+Moderna,neurology,2014,1,1,100.0
+Moderna,neurology,2016,1,0,0.0
+Moderna,oncology,2011,1,0,0.0
+Moderna,oncology,2012,1,0,0.0
+Moderna,oncology,2013,1,0,0.0
+Moderna,oncology,2017,1,0,0.0
+Moderna,oncology,2020,1,0,0.0
+Moderna,oncology,2023,1,0,0.0
+Moderna,psychiatry,2011,1,1,100.0
+Moderna,psychiatry,2022,1,1,100.0
+Moderna,psychiatry,2023,1,0,0.0
+Moderna,rare_disease,2015,1,0,0.0
+Moderna,rare_disease,2018,1,1,100.0
+Moderna,rare_disease,2019,1,1,100.0
+Moderna,respiratory,2011,2,2,100.0
+Novartis,cardiovascular,2010,1,1,100.0
+Novartis,cardiovascular,2017,1,0,0.0
+Novartis,cardiovascular,2022,1,1,100.0
+Novartis,gastrointestinal,2018,1,1,100.0
+Novartis,gastrointestinal,2019,1,1,100.0
+Novartis,immunology,2013,1,1,100.0
+Novartis,immunology,2014,1,1,100.0
+Novartis,infectious,2020,1,1,100.0
+Novartis,metabolic,2020,1,0,0.0
+Novartis,neurology,2011,1,1,100.0
+Novartis,neurology,2012,1,0,0.0
+Novartis,neurology,2015,1,0,0.0
+Novartis,neurology,2024,1,0,0.0
+Novartis,oncology,2010,1,0,0.0
+Novartis,oncology,2011,1,1,100.0
+Novartis,oncology,2012,1,0,0.0
+Novartis,oncology,2013,1,1,100.0
+Novartis,oncology,2014,1,1,100.0
+Novartis,oncology,2021,1,1,100.0
+Novartis,oncology,2023,1,0,0.0
+Novartis,oncology,2025,1,1,100.0
+Novartis,oncology,2026,1,1,100.0
+Novartis,psychiatry,2022,1,1,100.0
+Novartis,rare_disease,2014,1,0,0.0
+Novartis,rare_disease,2025,1,1,100.0
+Novartis,respiratory,2021,1,1,100.0
+Novartis,respiratory,2022,1,1,100.0
+Novo Nordisk,cardiovascular,2013,1,1,100.0
+Novo Nordisk,cardiovascular,2024,1,0,0.0
+Novo Nordisk,immunology,2011,1,0,0.0
+Novo Nordisk,immunology,2018,1,0,0.0
+Novo Nordisk,immunology,2021,1,0,0.0
+Novo Nordisk,immunology,2022,1,0,0.0
+Novo Nordisk,immunology,2024,1,0,0.0
+Novo Nordisk,infectious,2011,1,1,100.0
+Novo Nordisk,infectious,2012,1,1,100.0
+Novo Nordisk,metabolic,2012,1,1,100.0
+Novo Nordisk,metabolic,2015,1,1,100.0
+Novo Nordisk,neurology,2021,1,0,0.0
+Novo Nordisk,neurology,2023,1,0,0.0
+Novo Nordisk,oncology,2010,2,0,0.0
+Novo Nordisk,oncology,2012,1,0,0.0
+Novo Nordisk,oncology,2013,1,0,0.0
+Novo Nordisk,oncology,2017,2,0,0.0
+Novo Nordisk,oncology,2021,1,0,0.0
+Novo Nordisk,oncology,2025,1,0,0.0
+Novo Nordisk,psychiatry,2010,1,0,0.0
+Novo Nordisk,psychiatry,2016,1,0,0.0
+Novo Nordisk,psychiatry,2019,1,0,0.0
+Novo Nordisk,rare_disease,2016,1,0,0.0
+Novo Nordisk,rare_disease,2017,1,1,100.0
+Novo Nordisk,rare_disease,2021,1,1,100.0
+Pfizer,cardiovascular,2010,1,1,100.0
+Pfizer,cardiovascular,2014,1,1,100.0
+Pfizer,cardiovascular,2020,1,1,100.0
+Pfizer,cardiovascular,2024,1,1,100.0
+Pfizer,cardiovascular,2025,1,1,100.0
+Pfizer,gastrointestinal,2012,1,1,100.0
+Pfizer,gastrointestinal,2015,1,0,0.0
+Pfizer,gastrointestinal,2016,1,0,0.0
+Pfizer,gastrointestinal,2022,1,1,100.0
+Pfizer,gastrointestinal,2025,1,0,0.0
+Pfizer,immunology,2011,1,1,100.0
+Pfizer,immunology,2013,1,0,0.0
+Pfizer,immunology,2023,1,0,0.0
+Pfizer,immunology,2025,1,0,0.0
+Pfizer,infectious,2012,1,1,100.0
+Pfizer,infectious,2013,1,1,100.0
+Pfizer,infectious,2018,1,1,100.0
+Pfizer,infectious,2020,1,1,100.0
+Pfizer,infectious,2024,2,2,100.0
+Pfizer,metabolic,2010,1,0,0.0
+Pfizer,metabolic,2020,1,1,100.0
+Pfizer,metabolic,2023,1,0,0.0
+Pfizer,neurology,2023,1,0,0.0
+Pfizer,oncology,2012,1,1,100.0
+Pfizer,oncology,2014,1,1,100.0
+Pfizer,oncology,2015,1,0,0.0
+Pfizer,oncology,2016,2,1,50.0
+Pfizer,oncology,2017,1,1,100.0
+Pfizer,oncology,2018,2,0,0.0
+Pfizer,oncology,2020,1,0,0.0
+Pfizer,oncology,2021,1,0,0.0
+Pfizer,oncology,2023,1,0,0.0
+Pfizer,psychiatry,2012,1,0,0.0
+Pfizer,psychiatry,2014,1,1,100.0
+Pfizer,psychiatry,2025,1,0,0.0
+Pfizer,rare_disease,2012,1,0,0.0
+Pfizer,respiratory,2014,1,1,100.0
+Regeneron,cardiovascular,2013,1,1,100.0
+Regeneron,cardiovascular,2021,1,0,0.0
+Regeneron,gastrointestinal,2014,1,0,0.0
+Regeneron,gastrointestinal,2022,1,1,100.0
+Regeneron,immunology,2019,1,1,100.0
+Regeneron,immunology,2024,1,0,0.0
+Regeneron,infectious,2015,1,1,100.0
+Regeneron,infectious,2018,1,1,100.0
+Regeneron,metabolic,2011,1,1,100.0
+Regeneron,metabolic,2015,1,1,100.0
+Regeneron,metabolic,2024,1,0,0.0
+Regeneron,neurology,2020,2,0,0.0
+Regeneron,neurology,2024,1,0,0.0
+Regeneron,oncology,2012,3,3,100.0
+Regeneron,oncology,2014,1,1,100.0
+Regeneron,oncology,2015,1,1,100.0
+Regeneron,oncology,2017,1,0,0.0
+Regeneron,oncology,2018,1,1,100.0
+Regeneron,oncology,2019,1,0,0.0
+Regeneron,oncology,2021,1,0,0.0
+Regeneron,oncology,2024,2,2,100.0
+Regeneron,rare_disease,2021,1,1,100.0
+Regeneron,respiratory,2023,2,0,0.0
+Roche,cardiovascular,2011,1,1,100.0
+Roche,cardiovascular,2015,1,1,100.0
+Roche,cardiovascular,2021,2,2,100.0
+Roche,cardiovascular,2025,1,1,100.0
+Roche,immunology,2011,1,0,0.0
+Roche,immunology,2015,1,1,100.0
+Roche,immunology,2016,1,1,100.0
+Roche,immunology,2022,1,0,0.0
+Roche,neurology,2013,1,0,0.0
+Roche,neurology,2016,1,0,0.0
+Roche,neurology,2019,1,1,100.0
+Roche,neurology,2025,1,1,100.0
+Roche,oncology,2010,2,0,0.0
+Roche,oncology,2011,1,0,0.0
+Roche,oncology,2013,1,0,0.0
+Roche,oncology,2014,1,1,100.0
+Roche,oncology,2016,1,1,100.0
+Roche,oncology,2018,1,0,0.0
+Roche,oncology,2024,1,0,0.0
+Roche,oncology,2025,1,0,0.0
+Roche,rare_disease,2010,1,0,0.0
+Roche,rare_disease,2013,1,0,0.0
+Roche,rare_disease,2014,1,0,0.0
+Roche,rare_disease,2017,1,1,100.0
+Roche,respiratory,2010,1,1,100.0
+Roche,respiratory,2024,1,1,100.0
+Sanofi,cardiovascular,2013,1,1,100.0
+Sanofi,cardiovascular,2019,1,1,100.0
+Sanofi,gastrointestinal,2018,1,1,100.0
+Sanofi,gastrointestinal,2019,1,1,100.0
+Sanofi,gastrointestinal,2020,1,1,100.0
+Sanofi,immunology,2011,1,1,100.0
+Sanofi,immunology,2013,1,0,0.0
+Sanofi,immunology,2016,1,0,0.0
+Sanofi,immunology,2020,1,1,100.0
+Sanofi,immunology,2025,1,0,0.0
+Sanofi,infectious,2022,1,0,0.0
+Sanofi,metabolic,2025,1,1,100.0
+Sanofi,neurology,2015,1,0,0.0
+Sanofi,neurology,2021,1,0,0.0
+Sanofi,neurology,2024,1,1,100.0
+Sanofi,oncology,2014,2,1,50.0
+Sanofi,oncology,2015,1,0,0.0
+Sanofi,oncology,2024,1,0,0.0
+Sanofi,rare_disease,2017,1,0,0.0
+Sanofi,rare_disease,2025,1,1,100.0
+Sanofi,respiratory,2012,1,1,100.0
+Sanofi,respiratory,2022,1,1,100.0
+Takeda,cardiovascular,2010,1,1,100.0
+Takeda,cardiovascular,2017,1,1,100.0
+Takeda,cardiovascular,2020,1,1,100.0
+Takeda,gastrointestinal,2010,1,1,100.0
+Takeda,gastrointestinal,2024,1,1,100.0
+Takeda,immunology,2017,1,1,100.0
+Takeda,immunology,2020,1,1,100.0
+Takeda,immunology,2023,1,0,0.0
+Takeda,infectious,2010,1,1,100.0
+Takeda,infectious,2014,1,1,100.0
+Takeda,infectious,2020,1,1,100.0
+Takeda,infectious,2021,1,1,100.0
+Takeda,infectious,2024,1,0,0.0
+Takeda,metabolic,2015,1,1,100.0
+Takeda,metabolic,2022,1,1,100.0
+Takeda,metabolic,2023,1,0,0.0
+Takeda,neurology,2012,1,0,0.0
+Takeda,neurology,2018,1,1,100.0
+Takeda,neurology,2023,1,0,0.0
+Takeda,oncology,2011,1,0,0.0
+Takeda,oncology,2014,1,0,0.0
+Takeda,oncology,2015,1,1,100.0
+Takeda,oncology,2018,1,0,0.0
+Takeda,oncology,2021,1,1,100.0
+Takeda,oncology,2022,1,1,100.0
+Takeda,oncology,2024,1,0,0.0
+Takeda,oncology,2025,1,1,100.0
+Takeda,psychiatry,2019,1,0,0.0
+Takeda,rare_disease,2011,1,0,0.0
+Takeda,respiratory,2022,1,1,100.0
+Vertex Pharmaceuticals,cardiovascular,2010,2,1,50.0
+Vertex Pharmaceuticals,cardiovascular,2011,1,1,100.0
+Vertex Pharmaceuticals,cardiovascular,2016,1,1,100.0
+Vertex Pharmaceuticals,cardiovascular,2024,2,2,100.0
+Vertex Pharmaceuticals,gastrointestinal,2011,1,1,100.0
+Vertex Pharmaceuticals,gastrointestinal,2016,1,1,100.0
+Vertex Pharmaceuticals,immunology,2017,1,1,100.0
+Vertex Pharmaceuticals,immunology,2020,1,1,100.0
+Vertex Pharmaceuticals,immunology,2022,1,1,100.0
+Vertex Pharmaceuticals,immunology,2023,1,1,100.0
+Vertex Pharmaceuticals,infectious,2018,1,1,100.0
+Vertex Pharmaceuticals,infectious,2025,1,1,100.0
+Vertex Pharmaceuticals,metabolic,2011,1,0,0.0
+Vertex Pharmaceuticals,metabolic,2019,1,1,100.0
+Vertex Pharmaceuticals,neurology,2019,1,0,0.0
+Vertex Pharmaceuticals,neurology,2022,1,0,0.0
+Vertex Pharmaceuticals,neurology,2024,2,0,0.0
+Vertex Pharmaceuticals,oncology,2016,1,0,0.0
+Vertex Pharmaceuticals,oncology,2018,2,0,0.0
+Vertex Pharmaceuticals,oncology,2022,1,0,0.0
+Vertex Pharmaceuticals,oncology,2024,1,0,0.0
+Vertex Pharmaceuticals,rare_disease,2011,1,0,0.0
+Vertex Pharmaceuticals,rare_disease,2013,1,1,100.0
+Vertex Pharmaceuticals,rare_disease,2015,1,0,0.0
+Vertex Pharmaceuticals,rare_disease,2019,1,0,0.0
+Vertex Pharmaceuticals,rare_disease,2021,1,0,0.0
+Vertex Pharmaceuticals,rare_disease,2024,2,1,50.0
+Vertex Pharmaceuticals,rare_disease,2026,1,1,100.0
